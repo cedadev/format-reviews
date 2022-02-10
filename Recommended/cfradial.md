@@ -7,6 +7,8 @@
 
 # Format details
 
+|   |   |
+|---|---|
 | Format Title | CfRadial Data File Format |  
 | short name | cfradial |
 | file suffix(s) | .nc |
