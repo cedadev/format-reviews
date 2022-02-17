@@ -36,7 +36,7 @@ This format is being review as the suggested format for spectra from the Molecul
  - How much effort would it be to engineer read software from scratch? Small effort for simple unpacked spectra. Complex and bespoke packing require more effort to unpick. There are ways to put more than one block of data in one file, this would also require extra effort to encode. 
 ## R7: Format should be migratable (as improved formats appear the significant properties of the files can be transferred to new formats). 
  - Are there any format specific encodings that would be hard to move to other formats. (e.g. coloured cells in excel)  - No.
-# R8: Format is in use by the data centre user community 
+## R8: Format is in use by the data centre user community 
  - What is the designated user community for this feature type and use metadata? – The IUPAC stamp suggests the format is in use. 
 
 

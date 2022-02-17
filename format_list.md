@@ -19,7 +19,7 @@ The formats below are the formats BADC and NEODC should accept for ingest.
 | GEOTIFF | Not reviewed | Images for EO |
 | Plain text document | Not reviewed | Good documentation format |
 | HTML | Not reviewed |  |
-| JCAMP-DX | Sam to review by August 2009 |  2009-07-27 | Spectra data format |
+| JCAMP-DX | Sam to review by August 2009 |  [Recommended](Recommended/jcamp-dx.md) | Spectra data format |
 | ENVI-HDF | Wendy to review by July 2009 |  |
 | LAS | Jurgen to review by July 2009 | point cloud for EO |
 | BADC-CSV | Graham to review by Sep 2009 | csv format to replace NA as main BADC ASCII format for observational data, but to metadata and user requirements. |
