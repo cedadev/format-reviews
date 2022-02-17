@@ -5,7 +5,7 @@ The formats below are the formats BADC and NEODC should accept for ingest.
 | NetCDF | Not reviewed | BADC preferred data format. Suitable for gridded numeric data such as model output. CF conventions preferred - migration to make CF compliant acceptable. |
 | NASA-Ames | Not reviewed | Good BADC format. Text format suitable for time-series. Additional metadata inserted into comment lines desirable. |
 | HDF | Not reviewed | see #20740 | Good BADC format if consistent conventions used. |
-| PP | Kevin to review by end April 2009 |  2009-10-08 | Reasonable format for model data |
+| PP | Kevin to review by end April 2009 |  [OK](ok/pp.md) | Reasonable format for model data |
 | GRIB | Not reviewed | WMO standard |
 | BUFR | Not reviewed | WMO standard |
 | HITRAN | Not reviewed | Chemical Spectra format |
